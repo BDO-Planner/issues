@@ -16,7 +16,7 @@ Please read this before posting any issues. This will be updated with common Iss
 
 | Category | Label |
 | ------ | ------ |
-| Type | ~bug ~feature |
+| Type | ~bug ~feature ~idea ~general |
 | Workflow | ~"0-backlog" ~"1-planning" ~"2-in development" ~"3-completed"
 | Feedback | ~discussion |
 | Priority | ~low ~medium ~high |
