@@ -16,8 +16,9 @@ Please read this before posting any issues. This will be updated with common Iss
 
 | Category | Label |
 | ------ | ------ |
-| Type | ~bug ~feature ~idea ~general |
-| Workflow | ~"0-backlog" ~"1-planning" ~"2-in development" ~"3-completed"
-| Feedback | ~discussion |
-| Priority | ~low ~medium ~high |
-| Inactive | ~invalid ~"wont fix" ~duplicate ~"on hold" |
+| Type | ~"type::bug" ~"type::feature" ~"type::idea" ~"type::general" |
+| Area | ~"area::api" ~"area::app" ~"area::cdn" ~"area::data" ~"area::devsite" ~"area::server" |
+| Workflow | ~"wf::0-backlog" ~"wf::1-planning" ~"wf::2-in development" ~"wf::3-completed" |
+| Feedback | ~"feedback::discussion" |
+| Priority | ~"priority::low" ~"priority::medium" ~"priority::high" |
+| Inactive | ~"inactive::invalid" ~"inactive::wont fix" ~"inactive::duplicate" ~"inactive::on hold" |
