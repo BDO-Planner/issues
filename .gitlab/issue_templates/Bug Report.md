@@ -26,17 +26,3 @@ BDO Planner Team
 
 **Actual Behavior**  
 <!--- Tell us what happens instead -->
-
-
-**Additional Information**  
-<!--- Please provide any additional information here -->
-
-
-**Console Log**  
-<!--- If you received an error in the development console or on screen, please post it in the space below -->
-```
-
-```
-
-<!--- Don't remove anything below this line please, it helps automatically organise things for us :) -->
-/label ~Bug
