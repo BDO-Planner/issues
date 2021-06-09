@@ -2,22 +2,21 @@
 
 Please read this before posting any issues. This will be updated with common Issues and Feature requests that we will not be looking handle.
 
+![](https://img.shields.io/discord/388727480095211523)
+
 ## Common Issues
 
--   None
+- None
 
 ## Common Feature Requests
 
--   Multi-language support  
-    _Coming soon._  
-    Related Issues: [#46](https://gitlab.com/bdo_planner/issues/issues/46) [#59](https://gitlab.com/bdo_planner/issues/issues/59)
+- None
 
 ## Issue labels
 
-| Category | Label |
-| ------ | ------ |
-| Type | ~"type::bug" ~"type::feature" ~"type::idea" ~"type::general" |
-| Area | ~"area::api" ~"area::app" ~"area::cdn" ~"area::data" ~"area::devsite" ~"area::server" |
-| Feedback | ~"feedback::discussion" |
-| Priority | ~"priority::low" ~"priority::medium" ~"priority::high" |
-| Inactive | ~"inactive::invalid" ~"inactive::wont fix" ~"inactive::duplicate" ~"inactive::on hold" |
+| Category | Label                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Type     | ![](https://img.shields.io/github/labels/bdo-planner/issues/bug) ![](https://img.shields.io/github/labels/bdo-planner/issues/feature) ![](https://img.shields.io/github/labels/bdo-planner/issues/idea) ![](https://img.shields.io/github/labels/bdo-planner/issues/general)                                                                                                                                  |
+| Area     | ![](https://img.shields.io/github/labels/bdo-planner/issues/api) ![](https://img.shields.io/github/labels/bdo-planner/issues/app) ![](https://img.shields.io/github/labels/bdo-planner/issues/cdn) ![](https://img.shields.io/github/labels/bdo-planner/issues/data) ![](https://img.shields.io/github/labels/bdo-planner/issues/devdocs) ![](https://img.shields.io/github/labels/bdo-planner/issues/server) |
+| Feedback | ![](https://img.shields.io/github/labels/bdo-planner/issues/discussion)                                                                                                                                                                                                                                                                                                                                       |
+| Inactive | ![](https://img.shields.io/github/labels/bdo-planner/issues/invalid) ![](https://img.shields.io/github/labels/bdo-planner/issues/wont-fix) ![](https://img.shields.io/github/labels/bdo-planner/issues/duplicate) ![](https://img.shields.io/github/labels/bdo-planner/issues/on-hold)                                                                                                                        |
