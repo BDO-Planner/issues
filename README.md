@@ -4,6 +4,10 @@ Please read this before posting any issues. This will be updated with common Iss
 
 ![](https://img.shields.io/discord/388727480095211523)
 
+## Current Active Developments
+If you want to see what we're currently working on, this is our main development milestone;
+[BDO Planner 3.0](https://github.com/BDO-Planner/issues/milestone/2)
+
 ## Common Issues
 
 - Base stats are missing for classes released **AFTER** Shai [Read Issue #264 for more info](https://github.com/BDO-Planner/issues/issues/264#issuecomment-922783265)
