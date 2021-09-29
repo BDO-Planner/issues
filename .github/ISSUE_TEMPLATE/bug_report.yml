@@ -1,0 +1,50 @@
+name: Bug report
+about: Create a report to help us fix a problem
+title: ''
+labels: ["bug", "app"]
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to complete this bug report!
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: Take a couple minutes to help our life a bit easier.
+      options:
+        - label: I have [searched](https://github.com/BDO-Planner/issues/issues) for duplicate or closed issues.
+          required: true
+        - label: I have read the [Common Issues](https://github.com/BDO-Planner/issues/blob/master/README.md).
+          required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "Describe the bug"
+      description: A clear and concise description of what the bug is. Links to screenshots are also helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "How did the bug happen"
+      description: Steps to reproduce the behavior, preferably you have done it more than once.
+      placeholder: |
+        1. Go to '...'\n
+        2. Click on '....'\n
+        3. Scroll down to '....'\n
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: "Expected behavior"
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: "Additional information"
+      description: Add any other context about the problem here, such as console logs.
