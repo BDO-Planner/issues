@@ -30,9 +30,9 @@ body:
       label: "How did the bug happen"
       description: Steps to reproduce the behavior, preferably you have done it more than once.
       placeholder: |
-        1. Go to '...'\n
-        2. Click on '....'\n
-        3. Scroll down to '....'\n
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
         4. See error
     validations:
       required: true
