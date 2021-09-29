@@ -1,8 +1,8 @@
 name: Feature request
-about: Suggest an idea for BDO Planner
-title: ''
+description: Suggest an idea for BDO Planner
+title: 'Provide a general summary of the feature request'
 labels: ["feature", "app"]
-assignees: ''
+assignees: '-'
 body:
   - type: markdown
     attributes:
