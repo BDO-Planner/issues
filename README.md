@@ -5,8 +5,9 @@ Please read this before posting any issues. This will be updated with common Iss
 ![](https://img.shields.io/discord/388727480095211523)
 
 ## Current Active Developments
-If you want to see what we're currently working on, this is our main development milestone;
-[BDO Planner 3.0](https://github.com/BDO-Planner/issues/milestone/2)
+<!--If you want to see what we're currently working on, this is our main development milestone;
+[BDO Planner 3.0](https://github.com/BDO-Planner/issues/milestone/2)-->
+No Major updates currently
 
 ## Common Issues
 
