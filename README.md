@@ -1,3 +1,5 @@
+# BDO Planner will be closing down on 31st October. Read more [here](https://www.patreon.com/posts/closing-down-73115533)
+
 # BDO Planner - Issues and Feature Requests
 
 Please read this before posting any issues. This will be updated with common Issues and Feature requests that we will not be looking handle.
